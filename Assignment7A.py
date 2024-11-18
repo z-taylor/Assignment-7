@@ -67,7 +67,7 @@ class member():
 members = [
     member("John doe"),
     member("Jack Taylor"),
-    member("Marcus Sission"),
+    member("Josiah Travers"),
     member("Stephanie Palmer")
 ]
 
